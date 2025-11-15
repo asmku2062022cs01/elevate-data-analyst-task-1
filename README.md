@@ -20,11 +20,11 @@ This project involves cleaning and preprocessing the Mall Customers dataset. The
 11. **Final Data Quality Checks**: Verified no missing values or duplicates remain.  
 
 ## How to Run
-- **Python script**: `python data_cleaning.py`  
-- **Jupyter Notebook**: Open the notebook and run all cells.
+- **Python **: `DATALOADING.py`  
+- **IDLE shell 3.13.5**: Open the file run on f5 short key .
 
 ## Outcome
-- Cleaned dataset saved as `mall_customers_cleaned.csv`.  
+- Cleaned dataset saved as `mall_customers.csv`.  
 - Data is ready for further analysis or modeling.
 
 ## GitHub Submission
