@@ -30,5 +30,9 @@ The goal of this task is to clean the **Mall Customers dataset (Mall_Customers4.
 | Date column format | Converted to datetime |
 
 ---
-
+project-folder/
+│── Mall_Customers4.CSV
+│── notebook.ipynb (or .py script)
+│── PDF
+│── README.md
 
