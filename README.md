@@ -35,4 +35,3 @@ project-folder/
 │── notebook.ipynb (or .py script)
 │── PDF
 │── README.md
-
